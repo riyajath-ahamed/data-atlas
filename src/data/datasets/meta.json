@@ -1,0 +1,118 @@
+{
+  "id": "world-bank-wdi",
+  "name": "World Bank World Development Indicators",
+  "retrieved": "2026-10-12",
+  "yearStart": 1990,
+  "yearEnd": 2024,
+  "defaultYear": 2024,
+  "observationCount": 7595,
+  "countryCount": 217,
+  "indicators": {
+    "population": {
+      "code": "SP.POP.TOTL",
+      "name": "Population, total",
+      "unit": "people"
+    },
+    "gdpPerCapita": {
+      "code": "NY.GDP.PCAP.CD",
+      "name": "GDP per capita",
+      "unit": "current US$"
+    },
+    "lifeExpectancy": {
+      "code": "SP.DYN.LE00.IN",
+      "name": "Life expectancy at birth",
+      "unit": "years"
+    },
+    "internetPenetration": {
+      "code": "IT.NET.USER.ZS",
+      "name": "Individuals using the Internet",
+      "unit": "% of population"
+    },
+    "co2PerCapita": {
+      "code": "EN.GHG.CO2.PC.CE.AR5",
+      "name": "CO2 emissions excluding LULUCF per capita",
+      "unit": "t CO2e per capita"
+    },
+    "renewableEnergyShare": {
+      "code": "EG.FEC.RNEW.ZS",
+      "name": "Renewable energy consumption",
+      "unit": "% of total final energy consumption"
+    }
+  },
+  "sources": [
+    {
+      "name": "World Bank Open Data, World Development Indicators",
+      "url": "https://data.worldbank.org/",
+      "accessed": "2026-10-12"
+    },
+    {
+      "name": "Natural Earth 1:110m cultural vectors, via world-atlas 2.0.2",
+      "url": "https://www.naturalearthdata.com/",
+      "package": "https://github.com/topojson/world-atlas"
+    },
+    {
+      "name": "ISO 3166-1 numeric codes",
+      "url": "https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes"
+    }
+  ],
+  "unmatchedGeometryIds": [
+    "732",
+    "238",
+    "260",
+    "158",
+    "010",
+    "undefined",
+    "undefined",
+    "undefined"
+  ],
+  "countriesWithoutGeometry": [
+    "ASM",
+    "AND",
+    "ATG",
+    "ABW",
+    "BHR",
+    "BRB",
+    "BMU",
+    "VGB",
+    "CPV",
+    "CYM",
+    "CHI",
+    "COM",
+    "CUW",
+    "DMA",
+    "FRO",
+    "PYF",
+    "GIB",
+    "GRD",
+    "GUM",
+    "HKG",
+    "IMN",
+    "KIR",
+    "XKX",
+    "LIE",
+    "MAC",
+    "MDV",
+    "MLT",
+    "MHL",
+    "MUS",
+    "FSM",
+    "MCO",
+    "NRU",
+    "MNP",
+    "PLW",
+    "WSM",
+    "SMR",
+    "STP",
+    "SYC",
+    "SGP",
+    "SXM",
+    "KNA",
+    "LCA",
+    "MAF",
+    "VCT",
+    "TON",
+    "TCA",
+    "TUV",
+    "VIR"
+  ]
+}

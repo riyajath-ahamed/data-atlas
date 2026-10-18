@@ -1,0 +1,1521 @@
+[
+  {
+    "countryCode": "AFG",
+    "name": "Afghanistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Low income",
+    "isoNumeric": "004"
+  },
+  {
+    "countryCode": "ALB",
+    "name": "Albania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "008"
+  },
+  {
+    "countryCode": "DZA",
+    "name": "Algeria",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "012"
+  },
+  {
+    "countryCode": "ASM",
+    "name": "American Samoa",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "016"
+  },
+  {
+    "countryCode": "AND",
+    "name": "Andorra",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "020"
+  },
+  {
+    "countryCode": "AGO",
+    "name": "Angola",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "024"
+  },
+  {
+    "countryCode": "ATG",
+    "name": "Antigua and Barbuda",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "028"
+  },
+  {
+    "countryCode": "ARG",
+    "name": "Argentina",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "032"
+  },
+  {
+    "countryCode": "ARM",
+    "name": "Armenia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "051"
+  },
+  {
+    "countryCode": "ABW",
+    "name": "Aruba",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "533"
+  },
+  {
+    "countryCode": "AUS",
+    "name": "Australia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "036"
+  },
+  {
+    "countryCode": "AUT",
+    "name": "Austria",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "040"
+  },
+  {
+    "countryCode": "AZE",
+    "name": "Azerbaijan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "031"
+  },
+  {
+    "countryCode": "BHS",
+    "name": "Bahamas, The",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "044"
+  },
+  {
+    "countryCode": "BHR",
+    "name": "Bahrain",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "048"
+  },
+  {
+    "countryCode": "BGD",
+    "name": "Bangladesh",
+    "region": "South Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "050"
+  },
+  {
+    "countryCode": "BRB",
+    "name": "Barbados",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "052"
+  },
+  {
+    "countryCode": "BLR",
+    "name": "Belarus",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "112"
+  },
+  {
+    "countryCode": "BEL",
+    "name": "Belgium",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "056"
+  },
+  {
+    "countryCode": "BLZ",
+    "name": "Belize",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "084"
+  },
+  {
+    "countryCode": "BEN",
+    "name": "Benin",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "204"
+  },
+  {
+    "countryCode": "BMU",
+    "name": "Bermuda",
+    "region": "North America",
+    "incomeGroup": "High income",
+    "isoNumeric": "060"
+  },
+  {
+    "countryCode": "BTN",
+    "name": "Bhutan",
+    "region": "South Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "064"
+  },
+  {
+    "countryCode": "BOL",
+    "name": "Bolivia",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "068"
+  },
+  {
+    "countryCode": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "070"
+  },
+  {
+    "countryCode": "BWA",
+    "name": "Botswana",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "072"
+  },
+  {
+    "countryCode": "BRA",
+    "name": "Brazil",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "076"
+  },
+  {
+    "countryCode": "VGB",
+    "name": "British Virgin Islands",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "092"
+  },
+  {
+    "countryCode": "BRN",
+    "name": "Brunei Darussalam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "096"
+  },
+  {
+    "countryCode": "BGR",
+    "name": "Bulgaria",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "100"
+  },
+  {
+    "countryCode": "BFA",
+    "name": "Burkina Faso",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "854"
+  },
+  {
+    "countryCode": "BDI",
+    "name": "Burundi",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "108"
+  },
+  {
+    "countryCode": "CPV",
+    "name": "Cabo Verde",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "132"
+  },
+  {
+    "countryCode": "KHM",
+    "name": "Cambodia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "116"
+  },
+  {
+    "countryCode": "CMR",
+    "name": "Cameroon",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "120"
+  },
+  {
+    "countryCode": "CAN",
+    "name": "Canada",
+    "region": "North America",
+    "incomeGroup": "High income",
+    "isoNumeric": "124"
+  },
+  {
+    "countryCode": "CYM",
+    "name": "Cayman Islands",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "136"
+  },
+  {
+    "countryCode": "CAF",
+    "name": "Central African Republic",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "140"
+  },
+  {
+    "countryCode": "TCD",
+    "name": "Chad",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "148"
+  },
+  {
+    "countryCode": "CHI",
+    "name": "Channel Islands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": null
+  },
+  {
+    "countryCode": "CHL",
+    "name": "Chile",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "152"
+  },
+  {
+    "countryCode": "CHN",
+    "name": "China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "156"
+  },
+  {
+    "countryCode": "COL",
+    "name": "Colombia",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "170"
+  },
+  {
+    "countryCode": "COM",
+    "name": "Comoros",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "174"
+  },
+  {
+    "countryCode": "COD",
+    "name": "Congo, Dem. Rep.",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "180"
+  },
+  {
+    "countryCode": "COG",
+    "name": "Congo, Rep.",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "178"
+  },
+  {
+    "countryCode": "CRI",
+    "name": "Costa Rica",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "188"
+  },
+  {
+    "countryCode": "CIV",
+    "name": "Cote d'Ivoire",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "384"
+  },
+  {
+    "countryCode": "HRV",
+    "name": "Croatia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "191"
+  },
+  {
+    "countryCode": "CUB",
+    "name": "Cuba",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "192"
+  },
+  {
+    "countryCode": "CUW",
+    "name": "Curacao",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "531"
+  },
+  {
+    "countryCode": "CYP",
+    "name": "Cyprus",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "196"
+  },
+  {
+    "countryCode": "CZE",
+    "name": "Czechia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "203"
+  },
+  {
+    "countryCode": "DNK",
+    "name": "Denmark",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "208"
+  },
+  {
+    "countryCode": "DJI",
+    "name": "Djibouti",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "262"
+  },
+  {
+    "countryCode": "DMA",
+    "name": "Dominica",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "212"
+  },
+  {
+    "countryCode": "DOM",
+    "name": "Dominican Republic",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "214"
+  },
+  {
+    "countryCode": "ECU",
+    "name": "Ecuador",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "218"
+  },
+  {
+    "countryCode": "EGY",
+    "name": "Egypt, Arab Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "818"
+  },
+  {
+    "countryCode": "SLV",
+    "name": "El Salvador",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "222"
+  },
+  {
+    "countryCode": "GNQ",
+    "name": "Equatorial Guinea",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "226"
+  },
+  {
+    "countryCode": "ERI",
+    "name": "Eritrea",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "232"
+  },
+  {
+    "countryCode": "EST",
+    "name": "Estonia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "233"
+  },
+  {
+    "countryCode": "SWZ",
+    "name": "Eswatini",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "748"
+  },
+  {
+    "countryCode": "ETH",
+    "name": "Ethiopia",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "231"
+  },
+  {
+    "countryCode": "FRO",
+    "name": "Faroe Islands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "234"
+  },
+  {
+    "countryCode": "FJI",
+    "name": "Fiji",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "242"
+  },
+  {
+    "countryCode": "FIN",
+    "name": "Finland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "246"
+  },
+  {
+    "countryCode": "FRA",
+    "name": "France",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "250"
+  },
+  {
+    "countryCode": "PYF",
+    "name": "French Polynesia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "258"
+  },
+  {
+    "countryCode": "GAB",
+    "name": "Gabon",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "266"
+  },
+  {
+    "countryCode": "GMB",
+    "name": "Gambia, The",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "270"
+  },
+  {
+    "countryCode": "GEO",
+    "name": "Georgia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "268"
+  },
+  {
+    "countryCode": "DEU",
+    "name": "Germany",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "276"
+  },
+  {
+    "countryCode": "GHA",
+    "name": "Ghana",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "288"
+  },
+  {
+    "countryCode": "GIB",
+    "name": "Gibraltar",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "292"
+  },
+  {
+    "countryCode": "GRC",
+    "name": "Greece",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "300"
+  },
+  {
+    "countryCode": "GRL",
+    "name": "Greenland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "304"
+  },
+  {
+    "countryCode": "GRD",
+    "name": "Grenada",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "308"
+  },
+  {
+    "countryCode": "GUM",
+    "name": "Guam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "316"
+  },
+  {
+    "countryCode": "GTM",
+    "name": "Guatemala",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "320"
+  },
+  {
+    "countryCode": "GIN",
+    "name": "Guinea",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "324"
+  },
+  {
+    "countryCode": "GNB",
+    "name": "Guinea-Bissau",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "624"
+  },
+  {
+    "countryCode": "GUY",
+    "name": "Guyana",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "328"
+  },
+  {
+    "countryCode": "HTI",
+    "name": "Haiti",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "332"
+  },
+  {
+    "countryCode": "HND",
+    "name": "Honduras",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "340"
+  },
+  {
+    "countryCode": "HKG",
+    "name": "Hong Kong SAR, China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "344"
+  },
+  {
+    "countryCode": "HUN",
+    "name": "Hungary",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "348"
+  },
+  {
+    "countryCode": "ISL",
+    "name": "Iceland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "352"
+  },
+  {
+    "countryCode": "IND",
+    "name": "India",
+    "region": "South Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "356"
+  },
+  {
+    "countryCode": "IDN",
+    "name": "Indonesia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "360"
+  },
+  {
+    "countryCode": "IRN",
+    "name": "Iran, Islamic Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "364"
+  },
+  {
+    "countryCode": "IRQ",
+    "name": "Iraq",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "368"
+  },
+  {
+    "countryCode": "IRL",
+    "name": "Ireland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "372"
+  },
+  {
+    "countryCode": "IMN",
+    "name": "Isle of Man",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "833"
+  },
+  {
+    "countryCode": "ISR",
+    "name": "Israel",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "376"
+  },
+  {
+    "countryCode": "ITA",
+    "name": "Italy",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "380"
+  },
+  {
+    "countryCode": "JAM",
+    "name": "Jamaica",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "388"
+  },
+  {
+    "countryCode": "JPN",
+    "name": "Japan",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "392"
+  },
+  {
+    "countryCode": "JOR",
+    "name": "Jordan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "400"
+  },
+  {
+    "countryCode": "KAZ",
+    "name": "Kazakhstan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "398"
+  },
+  {
+    "countryCode": "KEN",
+    "name": "Kenya",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "404"
+  },
+  {
+    "countryCode": "KIR",
+    "name": "Kiribati",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "296"
+  },
+  {
+    "countryCode": "PRK",
+    "name": "Korea, Dem. People's Rep.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Low income",
+    "isoNumeric": "408"
+  },
+  {
+    "countryCode": "KOR",
+    "name": "Korea, Rep.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "410"
+  },
+  {
+    "countryCode": "XKX",
+    "name": "Kosovo",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": null
+  },
+  {
+    "countryCode": "KWT",
+    "name": "Kuwait",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "414"
+  },
+  {
+    "countryCode": "KGZ",
+    "name": "Kyrgyz Republic",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "417"
+  },
+  {
+    "countryCode": "LAO",
+    "name": "Lao PDR",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "418"
+  },
+  {
+    "countryCode": "LVA",
+    "name": "Latvia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "428"
+  },
+  {
+    "countryCode": "LBN",
+    "name": "Lebanon",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "422"
+  },
+  {
+    "countryCode": "LSO",
+    "name": "Lesotho",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "426"
+  },
+  {
+    "countryCode": "LBR",
+    "name": "Liberia",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "430"
+  },
+  {
+    "countryCode": "LBY",
+    "name": "Libya",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "434"
+  },
+  {
+    "countryCode": "LIE",
+    "name": "Liechtenstein",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "438"
+  },
+  {
+    "countryCode": "LTU",
+    "name": "Lithuania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "440"
+  },
+  {
+    "countryCode": "LUX",
+    "name": "Luxembourg",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "442"
+  },
+  {
+    "countryCode": "MAC",
+    "name": "Macao SAR, China",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "446"
+  },
+  {
+    "countryCode": "MDG",
+    "name": "Madagascar",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "450"
+  },
+  {
+    "countryCode": "MWI",
+    "name": "Malawi",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "454"
+  },
+  {
+    "countryCode": "MYS",
+    "name": "Malaysia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "458"
+  },
+  {
+    "countryCode": "MDV",
+    "name": "Maldives",
+    "region": "South Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "462"
+  },
+  {
+    "countryCode": "MLI",
+    "name": "Mali",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "466"
+  },
+  {
+    "countryCode": "MLT",
+    "name": "Malta",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "470"
+  },
+  {
+    "countryCode": "MHL",
+    "name": "Marshall Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "584"
+  },
+  {
+    "countryCode": "MRT",
+    "name": "Mauritania",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "478"
+  },
+  {
+    "countryCode": "MUS",
+    "name": "Mauritius",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "480"
+  },
+  {
+    "countryCode": "MEX",
+    "name": "Mexico",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "484"
+  },
+  {
+    "countryCode": "FSM",
+    "name": "Micronesia, Fed. Sts.",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "583"
+  },
+  {
+    "countryCode": "MDA",
+    "name": "Moldova",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "498"
+  },
+  {
+    "countryCode": "MCO",
+    "name": "Monaco",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "492"
+  },
+  {
+    "countryCode": "MNG",
+    "name": "Mongolia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "496"
+  },
+  {
+    "countryCode": "MNE",
+    "name": "Montenegro",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "499"
+  },
+  {
+    "countryCode": "MAR",
+    "name": "Morocco",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "504"
+  },
+  {
+    "countryCode": "MOZ",
+    "name": "Mozambique",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "508"
+  },
+  {
+    "countryCode": "MMR",
+    "name": "Myanmar",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "104"
+  },
+  {
+    "countryCode": "NAM",
+    "name": "Namibia",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "516"
+  },
+  {
+    "countryCode": "NRU",
+    "name": "Naoero",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "520"
+  },
+  {
+    "countryCode": "NPL",
+    "name": "Nepal",
+    "region": "South Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "524"
+  },
+  {
+    "countryCode": "NLD",
+    "name": "Netherlands",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "528"
+  },
+  {
+    "countryCode": "NCL",
+    "name": "New Caledonia",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "540"
+  },
+  {
+    "countryCode": "NZL",
+    "name": "New Zealand",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "554"
+  },
+  {
+    "countryCode": "NIC",
+    "name": "Nicaragua",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "558"
+  },
+  {
+    "countryCode": "NER",
+    "name": "Niger",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "562"
+  },
+  {
+    "countryCode": "NGA",
+    "name": "Nigeria",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "566"
+  },
+  {
+    "countryCode": "MKD",
+    "name": "North Macedonia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "807"
+  },
+  {
+    "countryCode": "MNP",
+    "name": "Northern Mariana Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "580"
+  },
+  {
+    "countryCode": "NOR",
+    "name": "Norway",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "578"
+  },
+  {
+    "countryCode": "OMN",
+    "name": "Oman",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "512"
+  },
+  {
+    "countryCode": "PAK",
+    "name": "Pakistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "586"
+  },
+  {
+    "countryCode": "PLW",
+    "name": "Palau",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "585"
+  },
+  {
+    "countryCode": "PAN",
+    "name": "Panama",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "591"
+  },
+  {
+    "countryCode": "PNG",
+    "name": "Papua New Guinea",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "598"
+  },
+  {
+    "countryCode": "PRY",
+    "name": "Paraguay",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "600"
+  },
+  {
+    "countryCode": "PER",
+    "name": "Peru",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "604"
+  },
+  {
+    "countryCode": "PHL",
+    "name": "Philippines",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "608"
+  },
+  {
+    "countryCode": "POL",
+    "name": "Poland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "616"
+  },
+  {
+    "countryCode": "PRT",
+    "name": "Portugal",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "620"
+  },
+  {
+    "countryCode": "PRI",
+    "name": "Puerto Rico (US)",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "630"
+  },
+  {
+    "countryCode": "QAT",
+    "name": "Qatar",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "634"
+  },
+  {
+    "countryCode": "ROU",
+    "name": "Romania",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "642"
+  },
+  {
+    "countryCode": "RUS",
+    "name": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "643"
+  },
+  {
+    "countryCode": "RWA",
+    "name": "Rwanda",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "646"
+  },
+  {
+    "countryCode": "WSM",
+    "name": "Samoa",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "882"
+  },
+  {
+    "countryCode": "SMR",
+    "name": "San Marino",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "674"
+  },
+  {
+    "countryCode": "STP",
+    "name": "Sao Tome and Principe",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "678"
+  },
+  {
+    "countryCode": "SAU",
+    "name": "Saudi Arabia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "682"
+  },
+  {
+    "countryCode": "SEN",
+    "name": "Senegal",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "686"
+  },
+  {
+    "countryCode": "SRB",
+    "name": "Serbia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "688"
+  },
+  {
+    "countryCode": "SYC",
+    "name": "Seychelles",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "High income",
+    "isoNumeric": "690"
+  },
+  {
+    "countryCode": "SLE",
+    "name": "Sierra Leone",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "694"
+  },
+  {
+    "countryCode": "SGP",
+    "name": "Singapore",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "High income",
+    "isoNumeric": "702"
+  },
+  {
+    "countryCode": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "534"
+  },
+  {
+    "countryCode": "SVK",
+    "name": "Slovak Republic",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "703"
+  },
+  {
+    "countryCode": "SVN",
+    "name": "Slovenia",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "705"
+  },
+  {
+    "countryCode": "SLB",
+    "name": "Solomon Islands",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "090"
+  },
+  {
+    "countryCode": "SOM",
+    "name": "Somalia, Fed. Rep.",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "706"
+  },
+  {
+    "countryCode": "ZAF",
+    "name": "South Africa",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "710"
+  },
+  {
+    "countryCode": "SSD",
+    "name": "South Sudan",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "728"
+  },
+  {
+    "countryCode": "ESP",
+    "name": "Spain",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "724"
+  },
+  {
+    "countryCode": "LKA",
+    "name": "Sri Lanka",
+    "region": "South Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "144"
+  },
+  {
+    "countryCode": "KNA",
+    "name": "St. Kitts and Nevis",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "659"
+  },
+  {
+    "countryCode": "LCA",
+    "name": "St. Lucia",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "662"
+  },
+  {
+    "countryCode": "MAF",
+    "name": "St. Martin (French part)",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "663"
+  },
+  {
+    "countryCode": "VCT",
+    "name": "St. Vincent and the Grenadines",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "670"
+  },
+  {
+    "countryCode": "SDN",
+    "name": "Sudan",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "729"
+  },
+  {
+    "countryCode": "SUR",
+    "name": "Suriname",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "740"
+  },
+  {
+    "countryCode": "SWE",
+    "name": "Sweden",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "752"
+  },
+  {
+    "countryCode": "CHE",
+    "name": "Switzerland",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "756"
+  },
+  {
+    "countryCode": "SYR",
+    "name": "Syrian Arab Republic",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Low income",
+    "isoNumeric": "760"
+  },
+  {
+    "countryCode": "TJK",
+    "name": "Tajikistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "762"
+  },
+  {
+    "countryCode": "TZA",
+    "name": "Tanzania",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "834"
+  },
+  {
+    "countryCode": "THA",
+    "name": "Thailand",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "764"
+  },
+  {
+    "countryCode": "TLS",
+    "name": "Timor-Leste",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "626"
+  },
+  {
+    "countryCode": "TGO",
+    "name": "Togo",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "768"
+  },
+  {
+    "countryCode": "TON",
+    "name": "Tonga",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "776"
+  },
+  {
+    "countryCode": "TTO",
+    "name": "Trinidad and Tobago",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "780"
+  },
+  {
+    "countryCode": "TUN",
+    "name": "Tunisia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "788"
+  },
+  {
+    "countryCode": "TUR",
+    "name": "Turkiye",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "792"
+  },
+  {
+    "countryCode": "TKM",
+    "name": "Turkmenistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "795"
+  },
+  {
+    "countryCode": "TCA",
+    "name": "Turks and Caicos Islands",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "796"
+  },
+  {
+    "countryCode": "TUV",
+    "name": "Tuvalu",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "798"
+  },
+  {
+    "countryCode": "UGA",
+    "name": "Uganda",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Low income",
+    "isoNumeric": "800"
+  },
+  {
+    "countryCode": "UKR",
+    "name": "Ukraine",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "804"
+  },
+  {
+    "countryCode": "ARE",
+    "name": "United Arab Emirates",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "High income",
+    "isoNumeric": "784"
+  },
+  {
+    "countryCode": "GBR",
+    "name": "United Kingdom",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "High income",
+    "isoNumeric": "826"
+  },
+  {
+    "countryCode": "USA",
+    "name": "United States",
+    "region": "North America",
+    "incomeGroup": "High income",
+    "isoNumeric": "840"
+  },
+  {
+    "countryCode": "URY",
+    "name": "Uruguay",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "858"
+  },
+  {
+    "countryCode": "UZB",
+    "name": "Uzbekistan",
+    "region": "Europe & Central Asia",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "860"
+  },
+  {
+    "countryCode": "VUT",
+    "name": "Vanuatu",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "548"
+  },
+  {
+    "countryCode": "VEN",
+    "name": "Venezuela, RB",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "862"
+  },
+  {
+    "countryCode": "VNM",
+    "name": "Viet Nam",
+    "region": "East Asia & Pacific",
+    "incomeGroup": "Upper middle income",
+    "isoNumeric": "704"
+  },
+  {
+    "countryCode": "VIR",
+    "name": "Virgin Islands (U.S.)",
+    "region": "Latin America & Caribbean ",
+    "incomeGroup": "High income",
+    "isoNumeric": "850"
+  },
+  {
+    "countryCode": "PSE",
+    "name": "West Bank and Gaza",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "275"
+  },
+  {
+    "countryCode": "YEM",
+    "name": "Yemen, Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "incomeGroup": "Low income",
+    "isoNumeric": "887"
+  },
+  {
+    "countryCode": "ZMB",
+    "name": "Zambia",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "894"
+  },
+  {
+    "countryCode": "ZWE",
+    "name": "Zimbabwe",
+    "region": "Sub-Saharan Africa ",
+    "incomeGroup": "Lower middle income",
+    "isoNumeric": "716"
+  }
+]
